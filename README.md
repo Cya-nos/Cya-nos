@@ -85,10 +85,6 @@ Here’s a glimpse at some projects I’ve worked on:
   <img src="https://github-readme-stats.vercel.app/api?username=Cya-nos&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cya-nos&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 📚 Education & Certifications
