@@ -106,15 +106,6 @@ Here’s a glimpse at some projects I’ve worked on:
 
 ---
 
-## 📫 Get in Touch
-
-Feel free to reach out to me for collaborations or just a tech talk!
-
-- **Email:** [marylovedelossantos@gmail.com](mailto:marylovedelossantos@gmail.com)
-- **Phone:** 09617888591
-
----
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Cya-nos&theme=juicyfresh" alt="GitHub Profile Trophy" />
 </p>
