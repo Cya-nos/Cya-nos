@@ -100,7 +100,6 @@ Here’s a glimpse at some projects I’ve worked on:
 
 - **Awards:**  
   - JRU Academic B Scholar (2021-2025)  
-  - JRU Pitch Competition Runner-Up
   - JRU Deans List Awardee
   - 4th JRU College Division Research Competition - Champion Research Poster
   - 4th JRU College Division Research Competition - 2nd Runner Up - Best Undergraduate Research
