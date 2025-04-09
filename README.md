@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2344DDDD&lines=Hello,+I+am+Mary+Love+Delos+Santos;Aspiring+Full-Stack+Developer;IT+Student+at+Jose+Rizal+University" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 <!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mrylvdlssnts" target="_blank">
@@ -17,7 +13,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## About Me
 
