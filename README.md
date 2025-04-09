@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2344DDDD&lines=Hello,+I+am+Mary+Love+Delos+Santos;Aspiring+Full-Stack+Developer;IT+Student+at+Jose+Rizal+University" alt="Typing SVG" />
 </p>
 
+  <br>
+  <p style="font-size: 20px;">
+    💻 BSIT Student at Jose Rizal University | Full Stack Developer
+  </p>
+
 <!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mrylvdlssnts" target="_blank">
@@ -12,6 +17,10 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Cya--nos-black?style=for-the-badge&logo=github">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ---
 
