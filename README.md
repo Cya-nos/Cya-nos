@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm **Mary Love Delos Santos**, an enthusiastic full-stack developer and IT student with a passion for creating innovative and user-friendly solutions. Through hands-on projects and continuous learning, I strive to make an impact in every challenge I tackle. Whether coding a sleek web application or building robust backend systems, my journey is fueled by curiosity and collaboration.
+I'm an enthusiastic full-stack developer and IT student with a passion for creating innovative and user-friendly solutions. Through hands-on projects and continuous learning, I strive to make an impact in every challenge I tackle. Whether coding a sleek web application or building robust backend systems, my journey is fueled by curiosity and collaboration.
 
 ---
 
